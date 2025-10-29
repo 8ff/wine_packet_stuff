@@ -20,6 +20,18 @@ Automated installation scripts for running Winlink and VARA FM on Linux using Wi
 ### Utility
 - `clean-wine-config.sh` - Remove all Wine configurations for fresh start
 
+## Download the scripts
+- Option A: Using Git (recommended)
+  - Install Git if needed: `sudo apt install -y git`
+  - Clone the repo: `git clone https://github.com/8ff/wine_packet_stuff.git`
+  - Enter the folder: `cd wine_packet_stuff`
+- Option B: Download ZIP
+  - Open https://github.com/8ff/wine_packet_stuff
+  - Click the green "Code" button → "Download ZIP"
+  - Extract the ZIP, then open a terminal in the extracted `wine_packet_stuff` folder
+
+Then follow Quick Start below.
+
 ## Quick Start
 
 ```bash
